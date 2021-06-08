@@ -16,4 +16,10 @@
 .active_class{
   font-weight: bold;
   border-bottom: rgb(190, 190, 240);
+  color: red;
+}
+
+.header-img img{
+  height: 100%;
+  width: 100%;
 }
