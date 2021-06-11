@@ -1,8 +1,17 @@
 import React from 'react'
+import Common from './Common'
 
-const About = () => {
+const Home = () => {
   return(
-    <h1>Hello world. This is About </h1>
+    <>
+    <Common
+      titleName ="I am a "
+      myName ="B Tech Student "
+      intro = "I have a collection of certificate here."
+      imgLink = "https://cdn.statically.io/img/www.itl.cat/pngfile/big/7-74901_iron-man-wallpaper-hd-1080p-high-resolution-iron.jpg"
+      btnText = "Learn More"
+    />
+    </>
   )
 }
- export default About;
+ export default Home;
