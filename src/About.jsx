@@ -1,5 +1,6 @@
 import React from 'react'
 import Common from './Common'
+import img from './image/2.png'
 
 const Home = () => {
   return(
@@ -8,8 +9,9 @@ const Home = () => {
       titleName ="I am a "
       myName ="B Tech Student "
       intro = "I have a collection of certificate here."
-      imgLink = "https://cdn.statically.io/img/www.itl.cat/pngfile/big/7-74901_iron-man-wallpaper-hd-1080p-high-resolution-iron.jpg"
+      imgLink = {img}
       btnText = "Learn More"
+      nextLink = '/certif'
     />
     </>
   )
