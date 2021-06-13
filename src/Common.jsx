@@ -6,7 +6,7 @@ const Common = (props) => {
 
   return(
     <section id="header" className="">
-      <div className="container-fluid nav_bg mt-5">
+      <div className="container-fluid nav_bg mt-5 mb-5">
         <div className="col-10 mx-auto">
           <div className="row">
          
