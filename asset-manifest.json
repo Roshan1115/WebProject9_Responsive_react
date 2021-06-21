@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/WebProject9_Responsive_react/static/css/main.2caa1964.chunk.css",
+    "main.js": "/WebProject9_Responsive_react/static/js/main.d023c297.chunk.js",
+    "main.js.map": "/WebProject9_Responsive_react/static/js/main.d023c297.chunk.js.map",
+    "runtime-main.js": "/WebProject9_Responsive_react/static/js/runtime-main.a8d5d6b6.js",
+    "runtime-main.js.map": "/WebProject9_Responsive_react/static/js/runtime-main.a8d5d6b6.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/WebProject9_Responsive_react/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.c803ac77.chunk.js": "/WebProject9_Responsive_react/static/js/2.c803ac77.chunk.js",
+    "static/js/2.c803ac77.chunk.js.map": "/WebProject9_Responsive_react/static/js/2.c803ac77.chunk.js.map",
+    "index.html": "/WebProject9_Responsive_react/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/WebProject9_Responsive_react/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.2caa1964.chunk.css.map": "/WebProject9_Responsive_react/static/css/main.2caa1964.chunk.css.map",
+    "static/js/2.c803ac77.chunk.js.LICENSE.txt": "/WebProject9_Responsive_react/static/js/2.c803ac77.chunk.js.LICENSE.txt",
+    "static/media/1.db81a581.png": "/WebProject9_Responsive_react/static/media/1.db81a581.png",
+    "static/media/2.ee0afec1.png": "/WebProject9_Responsive_react/static/media/2.ee0afec1.png",
+    "static/media/fifth.81ddc3ec.jpg": "/WebProject9_Responsive_react/static/media/fifth.81ddc3ec.jpg",
+    "static/media/first.a8b6b602.png": "/WebProject9_Responsive_react/static/media/first.a8b6b602.png",
+    "static/media/fourth.1668ffde.jpg": "/WebProject9_Responsive_react/static/media/fourth.1668ffde.jpg",
+    "static/media/second.fe4e7418.png": "/WebProject9_Responsive_react/static/media/second.fe4e7418.png",
+    "static/media/seventh.90066bb8.jpg": "/WebProject9_Responsive_react/static/media/seventh.90066bb8.jpg",
+    "static/media/sixth.e3b8315d.png": "/WebProject9_Responsive_react/static/media/sixth.e3b8315d.png",
+    "static/media/third.7b8065f3.jpg": "/WebProject9_Responsive_react/static/media/third.7b8065f3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8d5d6b6.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.c803ac77.chunk.js",
+    "static/css/main.2caa1964.chunk.css",
+    "static/js/main.d023c297.chunk.js"
+  ]
+}
